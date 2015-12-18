@@ -1,0 +1,12 @@
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\ProformaInvoice.Core.dll
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\ProformaInvoice.Core.pdb
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\obj\Debug\ProformaInvoice.Core.csprojResolveAssemblyReference.cache
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\obj\Debug\ProformaInvoice.Core.dll
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\obj\Debug\ProformaInvoice.Core.pdb
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\ProformaInvoice.Core.dll.config
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\EntityFramework.dll
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\Paul.dll
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\EntityFramework.xml
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practice Program\ProformaInvoice\ProformaInvoice.Core\bin\Debug\Paul.pdb

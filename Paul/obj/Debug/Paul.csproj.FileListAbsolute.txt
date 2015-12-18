@@ -1,0 +1,10 @@
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\Paul.dll.config
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\Paul.dll
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\Paul.pdb
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\EntityFramework.dll
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\EntityFramework.xml
+D:\Practice Program\ProformaInvoice\Paul\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practice Program\ProformaInvoice\Paul\obj\Debug\Paul.dll
+D:\Practice Program\ProformaInvoice\Paul\obj\Debug\Paul.pdb
+D:\Practice Program\ProformaInvoice\Paul\obj\Debug\Paul.csprojResolveAssemblyReference.cache
